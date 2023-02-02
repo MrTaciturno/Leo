@@ -1,0 +1,15 @@
+{
+  "name": "Laudon",
+  "short_name": "Laudon",
+  "theme_color": "#191970",
+  "background_color": "#191970",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
